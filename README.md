@@ -12,9 +12,11 @@ In this repo, we provide Ery-specific and universal open chroamtin regions from 
 
 ```
 
-H <= 3: Tissue-specific ATAC-seq peaks, containing 4518 peaks
+H <= 3: Tissue-specific ATAC-seq peaks
 
 H >= 3.5: Universal open chromatin
+
+Ery-specific open chromatin: H<=3 & max read count tissue is Ery, containing 4518 peaks.
 
 ```
 ### Correlation of the 77 ATAC-seq data using tissue-specific peaks
